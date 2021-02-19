@@ -1,0 +1,7 @@
+C:\Users\Thiago\source\repos\FIla_Dinamica_Simples_Encadeada\FIla_Dinamica_Simples_Encadeada\bin\Debug\FIla_Dinamica_Simples_Encadeada.exe.config
+C:\Users\Thiago\source\repos\FIla_Dinamica_Simples_Encadeada\FIla_Dinamica_Simples_Encadeada\bin\Debug\FIla_Dinamica_Simples_Encadeada.exe
+C:\Users\Thiago\source\repos\FIla_Dinamica_Simples_Encadeada\FIla_Dinamica_Simples_Encadeada\bin\Debug\FIla_Dinamica_Simples_Encadeada.pdb
+C:\Users\Thiago\source\repos\FIla_Dinamica_Simples_Encadeada\FIla_Dinamica_Simples_Encadeada\obj\Debug\FilaDinamicaSimplesEncadeada.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\FIla_Dinamica_Simples_Encadeada\FIla_Dinamica_Simples_Encadeada\obj\Debug\FilaDinamicaSimplesEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\FIla_Dinamica_Simples_Encadeada\FIla_Dinamica_Simples_Encadeada\obj\Debug\FIla_Dinamica_Simples_Encadeada.exe
+C:\Users\Thiago\source\repos\FIla_Dinamica_Simples_Encadeada\FIla_Dinamica_Simples_Encadeada\obj\Debug\FIla_Dinamica_Simples_Encadeada.pdb
